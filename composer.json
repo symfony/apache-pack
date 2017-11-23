@@ -1,0 +1,6 @@
+{
+    "name": "symfony/apache-pack",
+    "type": "metapackage",
+    "license": "MIT",
+    "description": "A pack for Apache support in Symfony"
+}
